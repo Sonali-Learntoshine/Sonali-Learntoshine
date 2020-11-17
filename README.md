@@ -11,8 +11,8 @@
 - 🔭 I’m currently looking **for work as intern in web development.**
 - 🌱 I’m currently learning **Django**
 - 💬 Ask me about **Python or any Programming stuff try mostly to solve it.**
-- 📫 How to reach me **singhsonaligkp@gmail.com**
-- ⚡ I am a **Code Blooded Developer who is always keen to learn new things because learning never stop.**
+- 📫 How to reach me: **singhsonaligkp@gmail.com**
+- ⚡ I am a **Code Blooded Developer who is always keen to learn new things because learning never ends.**
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonali-learntoshine&amp;theme=dark&amp;hide_langs_below=1" style="max-width:100%;">
