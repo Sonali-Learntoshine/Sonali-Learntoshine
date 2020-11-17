@@ -1,5 +1,4 @@
 <h1 align="left">Hey There, I'm Sonali Singh 👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonali-learntoshine&label=views&color=0e75b6&style=flat" alt="sonali-learntoshine" /> </p>
 <p align="left">
 <a href="https://linkedin.com/in/sonali singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sonali singh" height="30" width="40" /></a>
 <a href="https://github.com/Sonali-Learntoshine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Sonali-Learntoshine" height="30" width="40" /></a>
