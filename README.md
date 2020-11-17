@@ -1,4 +1,4 @@
-<h1 align="left">Hey There, I'm Sonali Singh 👋</h1>
+<h1 align="left">Hey there, I'm Sonali Singh 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonali-learntoshine&label=views&color=0e75b6&style=flat" alt="sonali-learntoshine" /> </p>
 
 <p align="left">
