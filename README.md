@@ -5,6 +5,7 @@
 <a href="https://linkedin.com/in/sonali singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sonali singh" height="30" width="40" /></a>
 <a href="https://github.com/Sonali-Learntoshine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Sonali-Learntoshine" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sonali_singh1003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sonali_singh1003" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@sonali745?share=true" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="https://www.hackerearth.com/@sonali745?share=true" height="30" width="40" /></a>
   
 </p>
 
