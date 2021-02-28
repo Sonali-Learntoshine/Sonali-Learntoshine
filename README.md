@@ -11,7 +11,7 @@
 </p>
 
 - 🔭 I’m currently looking **for work as intern in web development.**
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Java**
 - 💬 Ask me about **Python or any Programming stuff try mostly to solve it.**
 - 📫 How to reach me: **singhsonaligkp@gmail.com**
 - ⚡ I am a **Code Blooded Developer who is always keen to learn new things because learning never ends.**
