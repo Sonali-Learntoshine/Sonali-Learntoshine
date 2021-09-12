@@ -10,7 +10,7 @@
   
 </p>
 
-- 🔭 I’m currently looking **for work as intern in web development.**
+- 🔭 I’m currently at a post of Associate Professional Software Engineer in **DXC Technology.**
 - 🌱 I’m currently learning **Java**
 - 💬 Ask me about **Python or any Programming stuff try mostly to solve it.**
 - 📫 How to reach me: **singhsonaligkp@gmail.com**
