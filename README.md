@@ -1,4 +1,5 @@
-<h1 align="left">Hey there, I'm Sonali Singh 👋</h1>
+<h1 align="left">Hello, I'm Sonali Singh 👋</h1>
+<h1 align="Center">ASE @DXC Technology</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonali-learntoshine&label=views&color=0e75b6&style=flat" alt="sonali-learntoshine" /> </p>
 
 <p align="left">
@@ -10,7 +11,7 @@
   
 </p>
 
-- 🔭 I’m currently at a post of Associate Professional Software Engineer in **DXC Technology.**
+- 🔭 I keep on posting on **http://sonalisingh1003.pythonanywhere.com/.**
 - 🌱 I’m currently learning **Java**
 - 💬 Ask me about **Python or any Programming stuff try mostly to solve it.**
 - 📫 How to reach me: **singhsonaligkp@gmail.com**
