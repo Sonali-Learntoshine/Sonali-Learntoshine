@@ -13,9 +13,9 @@
 
 - 🔭 I keep on posting on **http://sonalisingh1003.pythonanywhere.com/.**
 - 🌱 I’m currently learning **Java**
-- 💬 Ask me about **Python or any Programming stuff try mostly to solve it.**
+- ⚡ Ask me about **C, C++, JAVA, Python, Django**
+- 💬 All my projects are available at **https://github.com/Sonali-Learntoshine?tab=repositories**
 - 📫 How to reach me: **singhsonaligkp@gmail.com**
-- ⚡ I am a **Code Blooded Developer who is always keen to learn new things because learning never ends.**
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonali-learntoshine&amp;theme=dark&amp;hide_langs_below=1" style="max-width:100%;">
